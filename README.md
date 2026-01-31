@@ -26,10 +26,6 @@
 - 📦 **Inventory (Private for now)** - Notifies when stock reaches a certain low level. Designed for home usage first
 - 🤖 **Home Server Automation (Private for now)** - Ansible scrips for managing home server
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/datogoglidze)
-
 # Connect
 
 [![Page](https://img.shields.io/badge/-datogoglidze-181717?style=flat-square&logo=startpage&logoColor=white)](https://datogoglidze.github.io/)
