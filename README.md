@@ -20,7 +20,8 @@
 - 🚚 **Bolt Integration (Private)** - Periodically sends products, prices and remainders to Bolt API
 - 💰 **Campaigns (Private)** - Manages active campaigns for POS devices
 - 🔔 **Notifications (Private)** - Sends messages using E-mail or SMS
-- 🤖 **Ecosystem (Private)** - Setups Debian servers with one click. Manages project deployments.
+- 🤖 **Ecosystem (Private)** - Setups Debian servers with one click. Manages project deployments
+- 👨‍💻 **[Personal Page](https://datogoglidze.github.io/)** - My personal corner on the web
 - 🏙️ **[City Simulation](https://github.com/datogoglidze/city-simulation-service)** - Real-time city simulation with role-based agents moving on a hex grid
 - 📝 **Bloknot [Backend](https://github.com/datogoglidze/bloknot) | [Frontend](https://github.com/datogoglidze/bloknot-front)** - Manage notes
 - 📦 **Inventory (Private for now)** - Notifies when stock reaches a certain low level. Designed for home usage first
