@@ -26,6 +26,7 @@
 - 📝 **Bloknot [Backend](https://github.com/datogoglidze/bloknot) | [Frontend](https://github.com/datogoglidze/bloknot-front)** - Manages notes
 - 📦 **Inventory (Private for now)** - Notifies when stock reaches a certain low level. Designed for home usage first
 - 🤖 **Home Server Automation (Private for now)** - Ansible scrips for managing home server
+- 📈 **Investments Manager (Private for now)** - Record transactions and analyze data with AI agents
 
 # Connect
 
