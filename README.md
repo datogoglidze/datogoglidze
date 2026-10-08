@@ -16,14 +16,14 @@
 > Outside of work, I maintain a home server that serves as a playground for experimenting with new tools and ideas. I continuously learn, test approaches, review code designs, take courses, create pet projects and look for more ways to deepen my knowledge.
 
 ## Current Projects
-- ⌚ **GitHub Scheduler (Private)** - Distributed dispatching and scheduling platform running ~30 workflows an average of 10,000 times monthly across 30 servers to replace GitHub Actions native cron schedules
+- ⌚ **GitHub Workflow Dispatcher (Private)** - Distributed dispatching and scheduling platform running ~30 workflows an average of 10,000 times monthly across 30 servers to replace unreliable GitHub Actions native cron schedules; built with FastAPI, APScheduler, SQLite, React 19, and Docker, featuring token bucket rate limiting with jitter, a management dashboard, and a FastMCP server for AI agent workflow automation
 - 📈 **Investments Manager (Private for now)** - Tracks and analyzes investments with dynamic data querying and an integrated AI assistant
 - 🤖 **Jeka (Private for now)** - ESP32-S3 programmed to act as an AI-powered family robot with various sensors
-- 📦 **Warehouse Management System (Private)** - Pilot tested across 2 warehouses with 5 users, replacing paper-based test workflows with Android task tracking and immediate manager visibility
+- 📦 **Warehouse Management System (Private)** - Full-stack platform built with Python (FastAPI), React, DevExtreme, and MSSQL, pilot-tested across 2 warehouses with 5 operators. Replaced paper-based workflows with mobile task tracking on Android phones, role-based state machines, order tracking, and real-time manager visibility
 - 🚚 **Bolt Integration (Private)** - Periodically synchronizes products, prices, and inventory remainders with Bolt API
-- 💰 **Campaigns (Private)** - Manages active campaigns for POS devices
-- 🔔 **Notifications (Private)** - FastAPI service processing an average of 42,000 SMS and email messages per day through extensible provider adapters
-- 🤖 **Ecosystem (Private)** - Automates configuration across 30 Linux servers and 1 Windows server and deployment of 40 services, supporting approximately 200 test and production deployments per month
+- 💰 **Campaigns (Private)** - Retail checkout engine built with Python (FastAPI) for POS devices. Evaluates active marketing campaigns, calculates real-time basket pricing across complex discount rules, manages loyalty cards with reward points, and generates purchase receipts with itemized totals and promotional gifts
+- 🔔 **Notifications (Private)** - FastAPI service used by 3 companies, processing an average of 42,000 messages per day. Replaced direct MSSQL Agent HTTP jobs with an extensible provider-adapter architecture supporting MSG and Silknet for SMS and SMTP for email
+- 🤖 **Ecosystem (Private)** - Automated infrastructure using Ansible, Docker, HashiCorp Vault, and self-hosted GitHub Actions runners across 30 Linux servers and 1 Windows server. Manages 40 containerized services and ~200 monthly deployments, reducing server setup from days to 10 minutes and service deploys to 5 minutes
 - 👨‍💻 **[Personal Page](https://datogoglidze.github.io/)** - My personal corner on the web
 - 🏙️ **[City Simulation](https://github.com/datogoglidze/city-simulation-service)** - Real-time city simulation with role-based agents moving on a hex grid
 - 📝 **Bloknot [Backend](https://github.com/datogoglidze/bloknot) | [Frontend](https://github.com/datogoglidze/bloknot-front)** - Manages notes
